@@ -16,7 +16,7 @@
 		Nota:  deberá tener instalado el programa maven en su equipo y haber modificado la ruta en la variable PATH 
 		con la ruta de la carpeta bin de maven
 
-  	* Una vez maven coplila el programa, ejecute el comanodo >java -cp target/psp1-1.0-SNAPSHOT.jar uniandes.ecos.psp1.Controlador
+  	* Una vez maven coplila el programa, ejecute el comanodo >java -cp target/psp2-1.0-SNAPSHOT.jar uniandes.edu.psp2.Controlador
      	 	Nota: deberá tener instalado la máquina virtual de Java (JRM) en su quipo
 	
   
